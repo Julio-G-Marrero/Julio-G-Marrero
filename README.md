@@ -1,15 +1,15 @@
-## Developer Web Here!
--I am currently strengthening and developing my skills in the field of web development, specializing in the MERN technology stack.
+@@ -4,7 +4,7 @@ I'm a Junior Fullstack Developer with a genuine passion for learning and making
+___
 
-<!--
-**Julio-G-Marrero/Julio-G-Marrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tecnologies
+## 💻 Tecnologies
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+@@ -23,6 +23,8 @@ ___
+And some more...
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
