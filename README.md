@@ -14,6 +14,4 @@ I am a Junior Fullstack Developer with a great interest in the development of in
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 Entre algunas otras...
 
----
-## 📊 My stats
-<img align="center" width="600" alt="Data" src="general.svg">
+
