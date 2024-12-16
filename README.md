@@ -1,5 +1,5 @@
-@@ -4,7 +4,7 @@ I'm a Junior Fullstack Developer with a genuine passion for learning and making
-___
+<h1 align="center">👋 Hello there! , I'm Julio</h1>
+I am a Junior Fullstack Developer with a great interest in the development of innovative solutions focused on the business environment. I am best suited particularly with JavaScript and popular frameworks such as React.js and Node.js. I am committed to staying on top of industry trends, always eager to innovate and deliver effective solutions!
 
 
 ## Tecnologies
